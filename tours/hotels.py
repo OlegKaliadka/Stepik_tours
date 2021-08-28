@@ -2,8 +2,8 @@ title = "Stepik Travel"
 subtitle = "For those who are distracted at home"
 description = """The best destinations, where no one will stop you from sitting on the shore and learning programming, 
 design, game development, and product management """
-departures = {"msk": "из Москвы", "spb": "из Петербурга", "nsk": "из Новосибирска", "ekb": "из Екатеринбурга",
-              "kazan": "из Казани"}
+departures = {"lnd": "from London", "dbl": "from Dublin", "lvp": "from Liverpool", "lds": "from Leeds",
+              "glg": "from Glasgow"}
 
 tours = {
     1: {
@@ -37,7 +37,7 @@ tours = {
     3: {
         "title": "Voyager Resort",
         "description": "From the outside, the hotel looks beautiful and traditional. It was built with white stones and has spruce "
-                       "wood decorations. Tall, large windows add to the overall style of the house and were added"
+                       "wood decorations. Tall, large windows add to the overall style of the house and were added "
                        "to the house in a mostly symmetrical way. ",
         "departure": "nsk",
         "picture": "https://images.unsplash.com/photo-1569660072562-48a035e65c30?ixlib=rb-1.2.1&ixid"
@@ -50,198 +50,198 @@ tours = {
     },
     4: {
         "title": "Orbit Hotel",
-        "description": "Каждый домик оборудован средней кухней и одной небольшой ванной комнатой, в нем также есть "
-                       "уютная гостиная, две спальни, скромная столовая и большой подвал.  Небольшие треугольные окна "
-                       "добавляют к общему стилю дома и были добавлены в дом в основном симметричным способом.",
+        "description": "Each cabin is equipped with a medium-sized kitchen and one small bathroom, it also has a cozy "
+                       "living room, two bedrooms, a modest dining room and a large basement.  Small triangular windows "
+                       "add to the overall style of the house and have been added to the house in a mostly symmetrical way.",
         "departure": "msk",
         "picture": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 62000,
         "stars": "4",
-        "country": "Индия",
+        "country": "India",
         "nights": 9,
-        "date": "22 января",
+        "date": "January 22",
     },
     5: {
         "title": "Atlantis Cabin Hotel",
-        "description": "Этот дом среднего размера имеет футуристический вид и находится в среднем состоянии. Интерьер "
-                       "выполнен в насыщенных тонах. Двор небольшой и выглядит очень формально. Кроме того, "
-                       "странные огни были замечены движущимися в доме ночью.",
+        "description": "This medium sized home has a futuristic look and is in average condition."
+                       "The interior is done in rich colors. The yard is small and looks very formal. "
+                       "In addition, strange lights have been seen moving in the house at night.",
         "departure": "msk",
         "picture": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 68000,
         "stars": "4",
-        "country": "Доминикана",
+        "country": "Dominican Republic",
         "nights": 8,
-        "date": "18 января",
+        "date": "January 18",
     },
     6: {
         "title": "Light Renaissance Hotel",
-        "description": "Этот крошечный дом выглядит довольно современно и находится в ужасном состоянии. Интерьер "
-                       "выполнен в цветах, которые напоминают вам о тропическом лесу. Двор небольшой и заросший "
-                       "дикими растениями. Кроме того, это было однажды показано в телесериале, демонстрирующем "
-                       "необычно украшенные дома.",
+        "description": "This tiny house looks quite modern and is in terrible condition. The interior is done in colors "
+                       "that remind you of a rainforest. The yard is small and overgrown with "
+                       "wild plants. Also, it was once shown in a television "
+                       "series showing unusually decorated houses.",
         "departure": "spb",
         "picture": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 53000,
         "stars": "3",
-        "country": "Пакистан",
+        "country": "Pakistan",
         "nights": 13,
-        "date": "15 февраля",
+        "date": "February 15",
     },
     7: {
         "title": "King's Majesty Hotel",
-        "description": "Этот дом средних размеров выглядит немного старомодно и находится в среднем состоянии. "
-                       "Интерьер выполнен в цветах, которые напоминают о весеннем цветнике. Двор среднего размера и "
-                       "напоминает луг. Кроме того, он был построен над остатками дома, который был разрушен в "
-                       "результате пожара.",
+        "description": "This medium-sized house looks a little old-fashioned and is in average condition. "
+                       "The interior is done in colors that are reminiscent of a spring flower garden. "
+                       "The yard is medium sized and resembles a meadow. It was also "
+                       "built over the remains of a house that was destroyed in a fire.",
         "departure": "ekb",
         "picture": "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 72000,
         "stars": "5",
-        "country": "Мексика",
+        "country": "Mexico",
         "nights": 9,
-        "date": "22 января",
+        "date": "January 22",
     },
     8: {
         "title": "Crown Hotel",
-        "description": "Этот огромный дом почти выглядит инопланетянином и находится в среднем состоянии. Интерьер "
-                       "выполнен в цветах, напоминающих апельсиновое дерево. Двор среднего размера и напоминает луг. "
-                       "Кроме того, это место печально известного убийства.",
+        "description": "This huge house almost looks like an alien and is in average condition. The interior is done "
+                       "in colors reminiscent of an orange tree. The yard is medium sized and resembles "
+                       "a meadow. It is also the site of an infamous murder.",
         "departure": "kazan",
         "picture": "https://images.unsplash.com/photo-1549109786-eb80da56e693?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 44000,
         "stars": "4",
-        "country": "Тайланд",
+        "country": "Thailand",
         "nights": 7,
-        "date": "3 февраля",
+        "date": "February 3",
     },
     9: {
         "title": "Seascape Resort",
-        "description": "Этот большой дом имеет сказочный вид и находится в отличном состоянии. Интерьер выполнен в "
-                       "ярких цветах. Двор маленький и аккуратно подстрижен. На заднем дворе есть большой участок "
-                       "недавно созданной земли, а дом имеет большой решетчатый забор через него. На заднем дворе "
-                       "живут различные животные. Многие владельцы приложили согласованные усилия для поддержания "
-                       "этой собственности.",
+        "description": "This large home has a fabulous view and is in excellent condition. The interior is done in "
+                       "excellent condition. The interior is done in bright colors. The yard is small and neatly "
+                       "trimmed. There is a large patch of newly created land in the backyard and the house has a large "
+                       "lattice fence across it. Various animals live in the backyard. Many owners "
+                       "have made a concerted effort to maintain this property.",
         "departure": "nsk",
         "picture": "https://images.unsplash.com/photo-1570214476695-19bd467e6f7a?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 39000,
         "stars": "3",
-        "country": "Индия",
+        "country": "India",
         "nights": 10,
-        "date": "1 февраля",
+        "date": "February 1",
     },
     10: {
         "title": "Rose Sanctum Hotel",
-        "description": "Снаружи этот дом выглядит старым, но чудесным. Он был построен из желтого соснового дерева и "
-                       "украшен белым кирпичом. Короткие, широкие окна пропускают много света и были добавлены в дом "
-                       "очень симметричным способом.",
+        "description": "From the outside, this house looks old, but wonderful. It was built of yellow pine "
+                       "wood and decorated with white brick. The short, wide windows let in a lot "
+                       "of light and were added to the house in a very symmetrical way.",
         "departure": "msk",
         "picture": "https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 52000,
         "stars": "4",
-        "country": "Куба",
+        "country": "Cuba",
         "nights": 10,
-        "date": "30 января",
+        "date": "January 30",
     },
     11: {
         "title": "Viridian Obelisk Hotel & Spa",
-        "description": "В доме очень хороший двор с большими камнями, похожими на озеро. В задней части дома окна "
-                       "просторные, с большими окнами, они светлее, чтобы улучшить впечатление. Снаружи есть пять "
-                       "маленьких деревьев. Двор в очень хорошем состоянии и очень живописный. Есть пруд для "
-                       "развлечения",
+        "description": "The house has a very nice yard with large rocks that look like a lake. The back of the house is "
+                       "spacious with large windows, they are lighter to enhance the experience. There are five "
+                       "small trees outside. The yard is in very good condition and very picturesque. "
+                       "There is a pond for entertaining",
         "departure": "spb",
         "picture": "https://images.unsplash.com/photo-1477120128765-a0528148fed2?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 68000,
         "stars": "5",
-        "country": "Индия",
+        "country": "India",
         "nights": 9,
-        "date": "1 марта",
+        "date": "March 1",
     },
     12: {
         "title": "Saffron Tundra Hotel & Spa",
-        "description": "Дом оборудован огромной кухней и одной современной ванной комнатой, а также имеет огромную "
-                       "гостиную, две спальни, небольшую столовую, гостиную и скромную кладовую.  Дом чистый, "
-                       "хорошо построенный и в хорошем состоянии, но, к сожалению, кровати сгорели в мае этого года "
-                       "и, к сожалению, все еще нуждаются в ремонте. Возможно, понадобится целая команда, "
-                       "чтобы заменить старую медную топку.",
+        "description": "The house is equipped with a huge kitchen and one modern bathroom, and has a huge living room, "
+                       "two bedrooms, a small dining room, living room and a modest pantry.  The house "
+                       "is clean, well built and in good condition, but unfortunately the beds burned down in May "
+                       "of this year and unfortunately still in need of repair. "
+                       "It might take a whole crew to replace the old copper firebox.",
         "departure": "kazan",
         "picture": "https://images.unsplash.com/photo-1440151050977-247552660a3b?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 72000,
         "stars": "4",
-        "country": "Мексика",
+        "country": "Mexico",
         "nights": 12,
-        "date": "17 февраля",
+        "date": "February 17",
     },
     13: {
         "title": "Traveller Resort",
-        "description": "Снаружи этот дом выглядит очень элегантно. Он был построен из коричневого кирпича и имеет "
-                       "коричневые кирпичные украшения. Высокие, большие окна добавляют к общему стилю дома и были "
-                       "добавлены к дому в довольно асимметричном образце. Крыша высокая и наклонена в одну сторону и "
-                       "покрыта коричневой черепицей. Один большой дымоход высовывает центр крыши. На крыше нет окон. "
-                       "Сам дом окружен великолепным садом с виноградными лозами, пагодой, прудом и множеством разных "
-                       "цветов.",
+        "description": "From the outside, this house looks very elegant. It was built of brown brick and has brown brick decorations. "
+                       "Tall, large windows add to the overall style of the house and were added to the house in a rather "
+                       "asymmetrical pattern. The roof is tall and sloped to one side and covered with brown shingles. "
+                       "One large chimney sticks out the center of the roof. There are no windows "
+                       "on the roof. The house itself is surrounded by a magnificent garden with vines, "
+                       "a pagoda, a pond, and many different flowers.",
         "departure": "ekb",
         "picture": "https://images.unsplash.com/photo-1553653924-39b70295f8da?ixlib=rb-1.2.1&auto=format&fit=crop&w"
                    "=800&q=60",
         "price": 49000,
         "stars": "3",
-        "country": "Куба",
+        "country": "Cuba",
         "nights": 8,
-        "date": "26 января"
+        "date": "January 26"
     },
     14: {
         "title": "History Hotel & Spa",
-        "description": "Крыша высокая, треугольная, многослойная, покрыта пшеничной соломой. Две большие трубы "
-                       "находятся по обе стороны от дома. Многие меньшие окна пропускают много света в комнаты под "
-                       "крышей.Сам дом окружен асфальтированной землей, с местом для еды и отдыха на открытом воздухе "
-                       "и различными горшечными растениями.",
+        "description": "The roof is high, triangular, multi-layered, covered with wheat thatch. Two large chimneys are "
+                       "on either side of the house. Many smaller windows let a lot of light into "
+                       "the rooms under the roof. The house itself is surrounded by paved ground, with a place "
+                       "to eat and rest outdoors and various potted plants.",
         "departure": "kazan",
         "picture": "https://images.unsplash.com/photo-1509600110300-21b9d5fedeb7?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 91000,
         "stars": "5",
-        "country": "Вьетнам",
+        "country": "Vietnam",
         "nights": 9,
-        "date": "3 февраля",
+        "date": "February 3",
     },
     15: {
         "title": "Riverside Lagoon Hotel & Spa",
-        "description": "Здание имеет форму круга. Дом частично окружен деревянными нависающими панелями с двух "
-                       "сторон. Второй этаж меньше первого, что позволило создать несколько балконов по бокам дома. "
-                       "Этот этаж следует тому же стилю, что и этаж ниже.",
+        "description": "The building is circular in shape. The house is partially surrounded by wooden overhanging panels "
+                       "on two sides. The second floor is smaller than the first floor, which allowed for the creation "
+                       "of several balconies on the sides of the house. This floor follows the same style as the floor below.",
         "departure": "spb",
         "picture": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 82000,
         "stars": "4",
-        "country": "Доминикана",
+        "country": "Dominican Republic",
         "nights": 8,
-        "date": "5 февраля",
+        "date": "February 5",
     },
     16: {
         "title": "History Hotel & Spa",
-        "description": "Это высокое здание из старого кирпича. Крыша высокая, треугольная, многослойная, "
-                       "покрыта пшеничной соломой. В тесной квадратной спальне установлена деревянная и стеклянная "
-                       "мебель. Пол деревянный, а стены текстурированы и окрашены.Настенные и напольные светильники "
-                       "обеспечивают свет. Комната оформлена в цветах, напоминающих облачное небо, и в целом выглядит "
-                       "очень старомодно. Первое, что вы заметите, это тщеславие.",
+        "description": "It is a tall building made of old brick. The roof is tall, triangular, multi-layered, and covered "
+                       "with wheat thatch. The cramped square bedroom has wood and glass furniture. "
+                       "The floor is wood, and the walls are textured and painted. Wall and floor "
+                       "lamps provide light. The room is decorated in colors reminiscent of a cloudy "
+                       "sky and overall looks very old-fashioned. The first thing you will notice is the vanity.",
         "departure": "spb",
         "picture": "https://images.unsplash.com/photo-1564056095795-4d63b6463dbf?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 74000,
         "stars": "5",
-        "country": "Вьетнам",
+        "country": "Vietnam",
         "nights": 12,
-        "date": "24 января",
+        "date": "January 24",
     }
 
 }
