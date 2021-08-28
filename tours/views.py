@@ -44,11 +44,9 @@ class DepartureView(View):
         min_nights = min(nights)
         max_nights = max(nights)
         if number_tours == 1:
-            text_tour = 'тур'
-        elif number_tours in [2, 3, 4]:
-            text_tour = 'тура'
+            text_tour = 'tour'
         else:
-            text_tour = 'туров'
+            text_tour = 'tours'
         context = {
             'title': title,
             'subtitle': subtitle,

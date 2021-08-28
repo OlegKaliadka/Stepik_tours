@@ -11,10 +11,10 @@ tours = {
         "description": "The hotel looks cozy. It was built of red pine wood and decorated with blue stones.  "
                        "The tall rounded windows add to the overall style of the house and have been added to the house "
                        "in a rather symmetrical pattern.",
-        "departure": "nsk",
+        "departure": "lvp",
         "picture": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 62000,
+        "price": 1100,
         "stars": "4",
         "country": "Cuba",
         "nights": 6,
@@ -25,10 +25,10 @@ tours = {
         "description": "The hotel building is shaped like a short U. The two extensions are connected by glass overhanging "
                        "panels. The second floor is the same size as the first floor, which was built exactly above the floor "
                        "below it. This floor has a completely different style than the floor below.",
-        "departure": "ekb",
+        "departure": "lds",
         "picture": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 85000,
+        "price": 1500,
         "stars": "5",
         "country": "Vietnam",
         "nights": 8,
@@ -39,10 +39,10 @@ tours = {
         "description": "From the outside, the hotel looks beautiful and traditional. It was built with white stones and has spruce "
                        "wood decorations. Tall, large windows add to the overall style of the house and were added "
                        "to the house in a mostly symmetrical way. ",
-        "departure": "nsk",
+        "departure": "lvp",
         "picture": "https://images.unsplash.com/photo-1569660072562-48a035e65c30?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 63000,
+        "price": 1100,
         "stars": "3",
         "country": "Pakistan",
         "nights": 11,
@@ -53,10 +53,10 @@ tours = {
         "description": "Each cabin is equipped with a medium-sized kitchen and one small bathroom, it also has a cozy "
                        "living room, two bedrooms, a modest dining room and a large basement.  Small triangular windows "
                        "add to the overall style of the house and have been added to the house in a mostly symmetrical way.",
-        "departure": "msk",
+        "departure": "lnd",
         "picture": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 62000,
+        "price": 1100,
         "stars": "4",
         "country": "India",
         "nights": 9,
@@ -67,10 +67,10 @@ tours = {
         "description": "This medium sized home has a futuristic look and is in average condition."
                        "The interior is done in rich colors. The yard is small and looks very formal. "
                        "In addition, strange lights have been seen moving in the house at night.",
-        "departure": "msk",
+        "departure": "lnd",
         "picture": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 68000,
+        "price": 1200,
         "stars": "4",
         "country": "Dominican Republic",
         "nights": 8,
@@ -82,10 +82,10 @@ tours = {
                        "that remind you of a rainforest. The yard is small and overgrown with "
                        "wild plants. Also, it was once shown in a television "
                        "series showing unusually decorated houses.",
-        "departure": "spb",
+        "departure": "dbl",
         "picture": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 53000,
+        "price": 1000,
         "stars": "3",
         "country": "Pakistan",
         "nights": 13,
@@ -97,10 +97,10 @@ tours = {
                        "The interior is done in colors that are reminiscent of a spring flower garden. "
                        "The yard is medium sized and resembles a meadow. It was also "
                        "built over the remains of a house that was destroyed in a fire.",
-        "departure": "ekb",
+        "departure": "lds",
         "picture": "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 72000,
+        "price": 1500,
         "stars": "5",
         "country": "Mexico",
         "nights": 9,
@@ -111,10 +111,10 @@ tours = {
         "description": "This huge house almost looks like an alien and is in average condition. The interior is done "
                        "in colors reminiscent of an orange tree. The yard is medium sized and resembles "
                        "a meadow. It is also the site of an infamous murder.",
-        "departure": "kazan",
+        "departure": "glg",
         "picture": "https://images.unsplash.com/photo-1549109786-eb80da56e693?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 44000,
+        "price": 900,
         "stars": "4",
         "country": "Thailand",
         "nights": 7,
@@ -127,10 +127,10 @@ tours = {
                        "trimmed. There is a large patch of newly created land in the backyard and the house has a large "
                        "lattice fence across it. Various animals live in the backyard. Many owners "
                        "have made a concerted effort to maintain this property.",
-        "departure": "nsk",
+        "departure": "lvp",
         "picture": "https://images.unsplash.com/photo-1570214476695-19bd467e6f7a?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 39000,
+        "price": 800,
         "stars": "3",
         "country": "India",
         "nights": 10,
@@ -141,10 +141,10 @@ tours = {
         "description": "From the outside, this house looks old, but wonderful. It was built of yellow pine "
                        "wood and decorated with white brick. The short, wide windows let in a lot "
                        "of light and were added to the house in a very symmetrical way.",
-        "departure": "msk",
+        "departure": "lnd",
         "picture": "https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 52000,
+        "price": 1100,
         "stars": "4",
         "country": "Cuba",
         "nights": 10,
@@ -156,10 +156,10 @@ tours = {
                        "spacious with large windows, they are lighter to enhance the experience. There are five "
                        "small trees outside. The yard is in very good condition and very picturesque. "
                        "There is a pond for entertaining",
-        "departure": "spb",
+        "departure": "dbl",
         "picture": "https://images.unsplash.com/photo-1477120128765-a0528148fed2?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 68000,
+        "price": 1300,
         "stars": "5",
         "country": "India",
         "nights": 9,
@@ -172,10 +172,10 @@ tours = {
                        "is clean, well built and in good condition, but unfortunately the beds burned down in May "
                        "of this year and unfortunately still in need of repair. "
                        "It might take a whole crew to replace the old copper firebox.",
-        "departure": "kazan",
+        "departure": "glg",
         "picture": "https://images.unsplash.com/photo-1440151050977-247552660a3b?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 72000,
+        "price": 1600,
         "stars": "4",
         "country": "Mexico",
         "nights": 12,
@@ -189,10 +189,10 @@ tours = {
                        "One large chimney sticks out the center of the roof. There are no windows "
                        "on the roof. The house itself is surrounded by a magnificent garden with vines, "
                        "a pagoda, a pond, and many different flowers.",
-        "departure": "ekb",
+        "departure": "lds",
         "picture": "https://images.unsplash.com/photo-1553653924-39b70295f8da?ixlib=rb-1.2.1&auto=format&fit=crop&w"
                    "=800&q=60",
-        "price": 49000,
+        "price": 700,
         "stars": "3",
         "country": "Cuba",
         "nights": 8,
@@ -204,10 +204,10 @@ tours = {
                        "on either side of the house. Many smaller windows let a lot of light into "
                        "the rooms under the roof. The house itself is surrounded by paved ground, with a place "
                        "to eat and rest outdoors and various potted plants.",
-        "departure": "kazan",
+        "departure": "glg",
         "picture": "https://images.unsplash.com/photo-1509600110300-21b9d5fedeb7?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 91000,
+        "price": 1800,
         "stars": "5",
         "country": "Vietnam",
         "nights": 9,
@@ -218,10 +218,10 @@ tours = {
         "description": "The building is circular in shape. The house is partially surrounded by wooden overhanging panels "
                        "on two sides. The second floor is smaller than the first floor, which allowed for the creation "
                        "of several balconies on the sides of the house. This floor follows the same style as the floor below.",
-        "departure": "spb",
+        "departure": "dbl",
         "picture": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 82000,
+        "price": 1900,
         "stars": "4",
         "country": "Dominican Republic",
         "nights": 8,
@@ -234,10 +234,10 @@ tours = {
                        "The floor is wood, and the walls are textured and painted. Wall and floor "
                        "lamps provide light. The room is decorated in colors reminiscent of a cloudy "
                        "sky and overall looks very old-fashioned. The first thing you will notice is the vanity.",
-        "departure": "spb",
+        "departure": "dbl",
         "picture": "https://images.unsplash.com/photo-1564056095795-4d63b6463dbf?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-        "price": 74000,
+        "price": 1700,
         "stars": "5",
         "country": "Vietnam",
         "nights": 12,
