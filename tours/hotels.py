@@ -1,52 +1,52 @@
 title = "Stepik Travel"
-subtitle = "Для тех, кого отвлекают дома"
-description = """Лучшие направления, где никто не будет вам мешать сидеть на берегу и изучать программирование, 
-дизайн, разработку игр и управление продуктами """
+subtitle = "For those who are distracted at home"
+description = """The best destinations, where no one will stop you from sitting on the shore and learning programming, 
+design, game development, and product management """
 departures = {"msk": "из Москвы", "spb": "из Петербурга", "nsk": "из Новосибирска", "ekb": "из Екатеринбурга",
               "kazan": "из Казани"}
 
 tours = {
     1: {
         "title": "Marina Lake Hotel & Spa",
-        "description": "Отель выглядит уютно. Он был построен из красного соснового дерева и украшен синими камнями.  "
-                       "Высокие округлые окна добавляют общий стиль дома и были добавлены в дом в довольно "
-                       "симметричном образце.",
+        "description": "The hotel looks cozy. It was built of red pine wood and decorated with blue stones.  "
+                       "The tall rounded windows add to the overall style of the house and have been added to the house "
+                       "in a rather symmetrical pattern.",
         "departure": "nsk",
         "picture": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 62000,
         "stars": "4",
-        "country": "Куба",
+        "country": "Cuba",
         "nights": 6,
-        "date": "2 марта",
+        "date": "March 2",
     },
     2: {
         "title": "Baroque Hotel",
-        "description": "Здание отеля имеет форму короткой буквы U. Два расширения связаны стеклянными нависающими "
-                       "панелями. Второй этаж такого же размера, как и первый, который был построен точно над полом "
-                       "под ним. Этот этаж имеет совершенно другой стиль, чем этаж ниже.",
+        "description": "The hotel building is shaped like a short U. The two extensions are connected by glass overhanging "
+                       "panels. The second floor is the same size as the first floor, which was built exactly above the floor "
+                       "below it. This floor has a completely different style than the floor below.",
         "departure": "ekb",
         "picture": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 85000,
         "stars": "5",
-        "country": "Вьетнам",
+        "country": "Vietnam",
         "nights": 8,
-        "date": "12 января",
+        "date": "January 12",
     },
     3: {
         "title": "Voyager Resort",
-        "description": "Снаружи отель выглядит красиво и традиционно. Он был построен с белыми камнями и имеет еловые "
-                       "деревянные украшения. Высокие, большие окна добавляют к общему стилю дома и были добавлены в "
-                       "дом в основном симметричным способом.",
+        "description": "From the outside, the hotel looks beautiful and traditional. It was built with white stones and has spruce "
+                       "wood decorations. Tall, large windows add to the overall style of the house and were added"
+                       "to the house in a mostly symmetrical way. ",
         "departure": "nsk",
         "picture": "https://images.unsplash.com/photo-1569660072562-48a035e65c30?ixlib=rb-1.2.1&ixid"
                    "=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
         "price": 63000,
         "stars": "3",
-        "country": "Пакистан",
+        "country": "Pakistan",
         "nights": 11,
-        "date": "7 февраля",
+        "date": "February 7",
     },
     4: {
         "title": "Orbit Hotel",
